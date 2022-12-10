@@ -1,1 +1,2 @@
 CONFLICTUEL
+Test de conflit
